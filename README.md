@@ -5,6 +5,12 @@ This project analyzes **coffee shop sales data** using SQL for data preparation 
 The dashboard provides insights into sales trends, product categories, and performance comparisons across time.
 
 ---
+## 📊 Dashboard Preview  
+
+Here is the Coffee Shop Sales Dashboard built in Power BI:  
+
+![Dashboard Screenshot](assets/Screenshot 2025-08-16 211300.png)
+
 
 ## 🗂️ Data Source
 - Coffee shop transaction dataset containing:
