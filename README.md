@@ -9,7 +9,7 @@ The dashboard provides insights into sales trends, product categories, and perfo
 
 Here is the Coffee Shop Sales Dashboard built in Power BI:  
 
-![Dashboard Screenshot](assets/Screenshot 2025-08-16 211300.png)
+![Dashboard Screenshot](assets/dashboard.png)
 
 
 ## 🗂️ Data Source
